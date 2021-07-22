@@ -9,6 +9,6 @@ Head First Design Patterns
 
 Examples converted to Typescript
 
-![typescript](//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png)
+![typescript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
 
 
