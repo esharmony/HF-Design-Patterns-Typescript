@@ -1,5 +1,4 @@
-# HF-Design-Patterns-Typescript
-Head First Design Patterns in Typescript 
+# Head First Design Patterns in Typescript 
 
 This repository contains and is going to contain the design patterns from the book 
 
