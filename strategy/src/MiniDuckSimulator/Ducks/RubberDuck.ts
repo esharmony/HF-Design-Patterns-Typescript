@@ -10,7 +10,7 @@ class RubberDuck extends Duck {
 		this.flyBehavior = new FlyNoWay();
 	}
 
-	display: () => void = () => console.log(`I'm a rubber duck`);
+	display = ():void => console.log(`I'm a rubber duck`);
 }
 
 export default RubberDuck;

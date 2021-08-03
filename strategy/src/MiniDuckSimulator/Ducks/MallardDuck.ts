@@ -10,7 +10,7 @@ class MallardDuck extends Duck {
         this.flyBehavior = new FlyWithWings();
     }
 
-    display: () => void = () => console.log(`I'm a Mallard`);
+    display = ():void => console.log(`I'm a Mallard`);
     
 }
 
